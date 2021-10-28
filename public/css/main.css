@@ -52,17 +52,11 @@ main nav ul a.btn{
 main nav {
     background-color: green;
     border: none;
-    width: 67.5%;
+    
 }
 
-.index-nav{
-    background-color: green;
-    border: none;
-    width: 67.5%;
-}
-
-.nav-wrapper{
-    width: 150%;
+nav{
+    width: 100% !important;   
 }
 
 
@@ -77,6 +71,8 @@ h2{
 h3{
     font-size: 1.7rem;    
 }
+
+
 
 .input-field.input-container{
 height: 100px;
@@ -121,10 +117,6 @@ margin: 0 auto;
   margin-left: 50px;
 }
 
-
-#rocio{
-    height: 50%;
-}
 
 
 
